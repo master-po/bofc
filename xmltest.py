@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#arbitrary code for git testing
-
 import requests
 import xmltodict
 
