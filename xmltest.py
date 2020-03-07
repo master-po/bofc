@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
-<<<<<<< HEAD
 #different arbitray change added
-=======
 #arbitrary change re-added
->>>>>>> 72c29f3c649c9a79b421b303074c519ed96ecb25
 
 import requests
 import xmltodict
